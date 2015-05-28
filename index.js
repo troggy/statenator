@@ -48,11 +48,12 @@ var randomCountry = function() {
 
 
 var port = process.env.PORT || 3000;
+var host = process.env.HOST || "127.0.0.1";
 
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/html'});
   res.write("<h1>" + randomCountry().name + "</h1>");
   res.end();
-}).listen(port, '127.0.0.1');
+}).listen(port, host);
 
-console.log('Server running at http://127.0.0.1:' + port + '/');
+console.log('Server running at http://' + host + ':' + port + '/');
