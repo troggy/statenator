@@ -1,0 +1,20 @@
+{
+  "name": "fakecountry",
+  "version": "0.1.0",
+  "description": "Fake country generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:kk-freelance/fakecountry.git"
+  },
+  "author": "Kosta Korenkov <7r0ggy@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "gm": "~1.18.1",
+    "express": "~4.12.4"
+  }
+}

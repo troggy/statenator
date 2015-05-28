@@ -1,0 +1,10 @@
+{
+  "country" : [
+    { "noun" : "France", "adj" : "French" },
+    { "noun" : "Russia", "adj" : "Russian" },
+    { "noun" : "Australia", "adj" : "Australian" },
+    { "noun" : "Germany", "adj" : "German" }
+  ],
+  "class" : [ "socialistic", "orthodox", "evil", "blessed", "holy", "democratic"],
+  "type" : [ "republic", "kingdom", "emirate", "autonomous area"]
+}
