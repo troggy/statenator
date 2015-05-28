@@ -54,6 +54,6 @@ http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/html'});
   res.write("<h1>" + randomCountry().name + "</h1>");
   res.end();
-}).listen(port, host);
+}).listen(port);
 
 console.log('Server running at http://' + host + ':' + port + '/');
