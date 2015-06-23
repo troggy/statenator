@@ -15,7 +15,11 @@ gm('images/small-star.png').size(function(err, value) {
 });*/
 
 function capitalize(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+  return string.toLowerCase().replace(/(?:^|\s)\S/g, function(a) { return a.toUpperCase(); });
+};
+
+function lowerCaseIfPreposition(string) {
+  return ["of"].indexOf(string.toLowerCase()) >= 0 ? string.toLowerCase() : string;
 };
 
 function rnd(arr) {
@@ -25,25 +29,27 @@ function rnd(arr) {
 
 var data = require('./data.json');
 
-var Country = function(type, clazz, country) {
+var Country = function(epithet, type, prefix, territory) {
   var name;
-  if (Math.random() >= 0.5) {
-    name = capitalize(clazz) + " " + capitalize(type) + " of " + capitalize(country.noun);
+
+  if (territory.adj == "" || Math.random() >= 0.5) {
+    name = [epithet, prefix.name, type, "of", territory.noun]
   } else {
-    name = capitalize(country.adj) + " " + capitalize(clazz) + " " + capitalize(type);
+    name = [epithet, territory.adj, prefix.name, type]
   }
 
   return {
-    name: name
+    name: name.map(capitalize).map(lowerCaseIfPreposition).join(" ")
   };
 };
 
 var randomCountry = function() {
   var type = rnd(data.type);
-  var clazz = rnd(data.class);
-  var country = rnd(data.country);
+  var prefix = rnd(data.prefix);
+  var territory = rnd(data.territory);
+  var epithet = rnd(data.epithet);
 
-  return new Country(type, clazz, country);
+  return new Country(epithet, type, prefix, territory);
 };
 
 
@@ -51,6 +57,11 @@ var port = process.env.PORT || 3000;
 var host = process.env.HOST || "127.0.0.1";
 
 http.createServer(function (req, res) {
+  if (req.url != "/") {
+	  res.writeHead(404);
+	  res.end();
+	  return;
+  }
   res.writeHead(200, {'Content-Type': 'text/html'});
   res.write("<h1>" + randomCountry().name + "</h1>");
   res.end();
