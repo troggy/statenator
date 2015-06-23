@@ -1,1376 +1,1360 @@
 {
 	"epithet": [
 		"Holy",
+		"Holy",
+		"Great",
+		"Great",
 		"Great",
 		"Free",
 		"Independent",
+		"Independent",
 		"Real",
 		"True",
-		"The only",
+		"The Only",
+		"National",
+		"National",
+		"Transnational",
+		"United",
+		"United",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
 		""
 	],
 	"territory": [
 		{
 			"noun": "Africa",
-			"adj": "",
+			"adj": "African",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [487, 203],
+				"bottom-right": [760, 340]
 			}
 		},
 		{
 			"noun": "Transafrica",
-			"adj": "",
+			"adj": "Transafrican",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [480, 295],
+				"bottom-right": [710, 440]
 			}
 		},
 		{
 			"noun": "Panafrica",
-			"adj": "",
+			"adj": "Panafrican",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [487, 203],
+				"bottom-right": [710, 440]
+			}
+		},
+		{
+			"noun": "Panarabia",
+			"adj": "Panarabic",
+			"pos": {
+				"top-left": [660, 180],
+				"bottom-right": [824, 300]
 			}
 		},
 		{
 			"noun": "Northern Africa",
-			"adj": "",
+			"adj": "Northern African",
 			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "Mesopotamia",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [550, 200],
+				"bottom-right": [700, 290]
 			}
 		},
 		{
 			"noun": "Jordan",
 			"adj": "Jordanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [697, 218],
+				"bottom-right": [720, 230]
 			}
 		},
 		{
 			"noun": "Transjordan",
-			"adj": "",
+			"adj": "Transjordanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 196],
+				"bottom-right": [750, 240]
 			}
 		},
 		{
 			"noun": "Jerusalem",
-			"adj": "",
+			"adj": "Jerusalemian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 200],
+				"bottom-right": [720, 230]
 			}
 		},
 		{
 			"noun": "Judah",
-			"adj": "",
+			"adj": "Judah",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 196],
+				"bottom-right": [750, 240]
+			}
+		},
+		{
+			"noun": "Byzantium",
+			"adj": "Byzantine",
+			"pos": {
+				"top-left": [576, 160],
+				"bottom-right": [725, 266]
 			}
 		},
 		{
 			"noun": "Palestine",
-			"adj": "",
+			"adj": "Palestinian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [697, 218],
+				"bottom-right": [720, 230]
 			}
 		},
 		{
 			"noun": "Sub-Saharan Africa",
-			"adj": "",
+			"adj": "Sub-Saharian",
 			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "Mauritius",
-			"adj": "Mauritian",
-			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [492, 303],
+				"bottom-right": [746, 520]
 			}
 		},
 		{
 			"noun": "Western Africa",
-			"adj": "",
+			"adj": "Western African",
 			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "African Great Lakes",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [490, 200],
+				"bottom-right": [625, 335]
 			}
 		},
 		{
 			"noun": "Central Africa",
-			"adj": "",
+			"adj": "Central African",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [604, 292],
+				"bottom-right": [693, 443]
 			}
 		},
 		{
 			"noun": "Southern Africa",
-			"adj": "",
+			"adj": "Southern African",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [611, 406],
+				"bottom-right": [684, 513]
 			}
 		},
 		{
 			"noun": "Asia",
-			"adj": "",
+			"adj": "Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [830, 124],
+				"bottom-right": [1097, 400]
 			}
 		},
 		{
 			"noun": "Eurasia",
-			"adj": "",
+			"adj": "Eurasian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [543, 36],
+				"bottom-right": [1107, 250]
 			}
 		},
 		{
 			"noun": "Transasia",
-			"adj": "",
+			"adj": "Transasian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [736, 35],
+				"bottom-right": [1087, 306]
 			}
 		},
 		{
 			"noun": "Pansasia",
-			"adj": "",
+			"adj": "Pansasian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 60],
+				"bottom-right": [1083, 329]
 			}
 		},
 		{
-			"noun": "East Asia",
-			"adj": "",
+			"noun": "Eastern Asia",
+			"adj": "Eastern Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [862, 160],
+				"bottom-right": [1020, 330]
 			}
 		},
 		{
-			"noun": "Southeast Asia",
-			"adj": "",
+			"noun": "Southeastern Asia",
+			"adj": "Southeastern Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [935, 237],
+				"bottom-right": [1179, 413]
 			}
 		},
 		{
 			"noun": "Indochina",
-			"adj": "",
+			"adj": "Indochinese",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [913, 213],
+				"bottom-right": [1084, 395]
 			}
 		},
 		{
 			"noun": "China",
 			"adj": "Chinese",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [864, 136],
+				"bottom-right": [1037, 24]
 			}
 		},
 		{
 			"noun": "India",
 			"adj": "Indian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [850, 227],
+				"bottom-right": [924, 330]
 			}
 		},
 		{
-			"noun": "South Asia",
-			"adj": "",
+			"noun": "Southern Asia",
+			"adj": "Southern Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [762, 198],
+				"bottom-right": [940, 334]
 			}
 		},
 		{
 			"noun": "Central Asia",
-			"adj": "",
+			"adj": "Central Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [728, 140],
+				"bottom-right": [910, 220]
 			}
 		},
 		{
-			"noun": "West Asia",
-			"adj": "",
+			"noun": "Western Asia",
+			"adj": "Western Asian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [672, 176],
+				"bottom-right": [796, 298]
 			}
 		},
 		{
 			"noun": "Anatolia",
-			"adj": "",
+			"adj": "Anatolian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [666, 176],
+				"bottom-right": [729, 203]
 			}
 		},
 		{
 			"noun": "Mesopotamia",
-			"adj": "",
+			"adj": "Mesopotamian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 192],
+				"bottom-right": [748, 227]
 			}
 		},
 		{
 			"noun": "Persia",
-			"adj": "",
+			"adj": "Persian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [713, 183],
+				"bottom-right": [827, 275]
 			}
 		},
 		{
 			"noun": "Babylon",
-			"adj": "",
+			"adj": "Babylonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [713, 183],
+				"bottom-right": [827, 275]
 			}
 		},
 		{
 			"noun": "Levant",
-			"adj": "",
+			"adj": "Levantine",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [700, 196],
+				"bottom-right": [750, 240]
 			}
 		},
 		{
 			"noun": "Arabian Peninsula",
-			"adj": "",
+			"adj": "Arabian Peninsula",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [695, 219],
+				"bottom-right": [795, 302]
 			}
 		},
 		{
-			"noun": "South Arabia",
-			"adj": "",
+			"noun": "Southern Europe",
+			"adj": "Southern European",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [572, 149],
+				"bottom-right": [666, 179]
 			}
 		},
 		{
-			"noun": "Kuwait",
-			"adj": "",
+			"noun": "Eastern Europe",
+			"adj": "Eastern European",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [636, 111],
+				"bottom-right": [677, 145]
 			}
 		},
 		{
-			"noun": "Yemen",
-			"adj": "",
+			"noun": "Western Europe",
+			"adj": "Western European",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [520, 148],
+				"bottom-right": [582, 185]
 			}
 		},
 		{
-			"noun": "South Europe",
-			"adj": "",
+			"noun": "Northern Europe",
+			"adj": "Northern European",
 			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "East Europe",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "West Europe",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "North Europe",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [565, 120],
+				"bottom-right": [630, 146]
 			}
 		},
 		{
 			"noun": "Europe",
-			"adj": "",
+			"adj": "European",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [506, 94],
+				"bottom-right": [706, 193]
 			}
 		},
 		{
 			"noun": "Transeurope",
-			"adj": "",
+			"adj": "Transeuropean",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [480, 75],
+				"bottom-right": [710, 203]
 			}
 		},
 		{
 			"noun": "Paneurope",
-			"adj": "",
+			"adj": "Paneuropean",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [480, 75],
+				"bottom-right": [710, 203]
 			}
 		},
 		{
 			"noun": "Central Europe",
-			"adj": "",
+			"adj": "Central European",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [506, 94],
+				"bottom-right": [706, 193]
 			}
 		},
 		{
 			"noun": "Norsk",
-			"adj": "",
+			"adj": "Norsk",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [574, 56],
+				"bottom-right": [688, 103]
 			}
 		},
 		{
-			"noun": "Swiss",
-			"adj": "",
+			"noun": "Switzerland",
+			"adj": "Swiss",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [581, 138],
+				"bottom-right": [612, 158]
 			}
 		},
 		{
 			"noun": "Alps",
-			"adj": "",
+			"adj": "Alpian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [581, 138],
+				"bottom-right": [612, 158]
 			}
 		},
 		{
 			"noun": "Himalayas",
-			"adj": "",
+			"adj": "Himalayan",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [861, 203],
+				"bottom-right": [935, 239]
 			}
 		},
 		{
 			"noun": "Scandinavia",
-			"adj": "",
+			"adj": "Scandinavian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [574, 56],
+				"bottom-right": [688, 103]
 			}
 		},
 		{
 			"noun": "Finland",
 			"adj": "Finnish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [638, 63],
+				"bottom-right": [663, 97]
 			}
 		},
 		{
 			"noun": "Karelia",
-			"adj": "",
+			"adj": "Karelian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [656, 67],
+				"bottom-right": [689, 86]
 			}
 		},
 		{
 			"noun": "Tibet",
-			"adj": "",
+			"adj": "Tibetian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [861, 203],
+				"bottom-right": [935, 239]
 			}
 		},
 		{
 			"noun": "Japan",
 			"adj": "Japanese",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Transylvania",
-			"adj": "",
+			"adj": "Transylvanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Tuva",
-			"adj": "",
+			"adj": "Tuvan",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Vietnam",
 			"adj": "Vietnamese",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Australia",
 			"adj": "Australian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "New Zealand",
-			"adj": "of New Zealand",
+			"adj": "New Zealand",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Denmark",
 			"adj": "Danish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Sweden",
 			"adj": "Swedish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Norway",
 			"adj": "Norwegian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "Austro-Hungarian",
-			"adj": "",
+			"noun": "Austro-Hungary",
+			"adj": "Austro-Hungarian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Prussia",
-			"adj": "",
+			"adj": "Prussian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Belarus",
 			"adj": "Belarusian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "Slavic",
-			"adj": "",
+			"noun": "Slavs",
+			"adj": "Slavic",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ingushetia",
-			"adj": "",
+			"adj": "Ingushetian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Dagestan",
-			"adj": "",
+			"adj": "Dagestanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ichkeria",
-			"adj": "",
+			"adj": "Ichkerian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Tatarstan",
-			"adj": "",
+			"adj": "Tatarstanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Udmurtia",
-			"adj": "",
+			"adj": "Udmurtia",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Sakha",
-			"adj": "",
+			"adj": "Sakhan",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Kievan Rus",
-			"adj": "",
+			"adj": "Kievan Rus",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Don",
-			"adj": "",
+			"adj": "Don",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Kuban",
-			"adj": "",
+			"adj": "Kubanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Carpatho-Ukraine",
-			"adj": "",
+			"adj": "Carpatho-Ukrainian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Russia",
 			"adj": "Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ukraine",
 			"adj": "Ukrainian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "East Ukraine",
-			"adj": "",
+			"adj": "East Ukrainian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "West Ukraine",
-			"adj": "",
+			"adj": "West Ukrainian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Central Russia",
-			"adj": "",
+			"adj": "Central Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "East Russia",
-			"adj": "",
+			"noun": "Eastern Russia",
+			"adj": "Eastern Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "West Russia",
-			"adj": "",
+			"noun": "Western Russia",
+			"adj": "Western Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "North Russia",
-			"adj": "",
+			"noun": "Northern Russia",
+			"adj": "Northern Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "South Russia",
-			"adj": "",
+			"noun": "Southern Russia",
+			"adj": "Southern Russian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Saxony",
-			"adj": "",
+			"adj": "Saxonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Weimar",
-			"adj": "",
+			"adj": "Weimar",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Normandy",
-			"adj": "",
+			"adj": "Normandian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Britain",
-			"adj": "",
+			"adj": "British",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "England",
-			"adj": "",
+			"adj": "English",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Scotland",
-			"adj": "",
+			"adj": "Scotish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ireland",
 			"adj": "Irish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Italy",
 			"adj": "Italian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Germany",
 			"adj": "German",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "France",
 			"adj": "French",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Spain",
 			"adj": "Spanish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Portugal",
 			"adj": "Portuguese",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Belgium",
 			"adj": "Belgian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Holland",
-			"adj": "",
+			"adj": "Dutch",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Lithuania",
-			"adj": "",
+			"adj": "Lithuanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Livonia",
-			"adj": "",
+			"adj": "Livonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Latvia",
 			"adj": "Latvian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Estonia",
 			"adj": "Estonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Poland",
 			"adj": "Polish",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Lemkos",
-			"adj": "",
+			"adj": "Lemkos",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Baltic",
-			"adj": "",
+			"adj": "Baltic",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Dacia",
-			"adj": "",
+			"adj": "Dacian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Moldavia",
-			"adj": "",
+			"adj": "Moldavian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Romania",
 			"adj": "Romanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Walachia",
-			"adj": "",
+			"adj": "Walachian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Carpathia",
-			"adj": "",
+			"adj": "Carpathian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "Czechoslovak",
-			"adj": "",
+			"noun": "Czechoslovakia",
+			"adj": "Czechoslovakian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Slovakia",
-			"adj": "Slovak; Slovakian",
+			"adj": "Slovakian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Slovenia",
 			"adj": "Slovenian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Czech",
-			"adj": "",
+			"adj": "Czech",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Balkans",
-			"adj": "",
+			"adj": "Balkanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Alaska",
-			"adj": "",
+			"adj": "Alaska",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Canada",
 			"adj": "Canadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "North Canada",
-			"adj": "",
+			"noun": "Northern Canada",
+			"adj": "Northern Canadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "South Canada",
-			"adj": "",
+			"noun": "Southern Canada",
+			"adj": "Southern Canadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "West Canada",
-			"adj": "",
+			"noun": "Western Canada",
+			"adj": "Western Canadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "East Canada",
-			"adj": "",
+			"noun": "Eastern Canada",
+			"adj": "Eastern Canadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Bosnia",
-			"adj": "",
+			"adj": "Bosnian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Serbia",
 			"adj": "Serbian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Macedonia",
-			"adj": "",
+			"adj": "Macedonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Yugoslavia",
-			"adj": "",
+			"adj": "Yugoslavian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Croatia",
 			"adj": "Croatian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Montenegro",
-			"adj": "",
+			"adj": "Montenegrin",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Greece",
 			"adj": "Greek",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Albania",
 			"adj": "Albanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ottoman",
-			"adj": "",
+			"adj": "Ottoman",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
+			}
+		},
+		{
+			"noun": "Turkey",
+			"adj": "Turkish",
+			"pos": {
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Caucasus",
-			"adj": "",
+			"adj": "Caucasusian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Transcaucasus",
-			"adj": "",
+			"adj": "Transcaucasusian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Georgia",
-			"adj": "",
+			"adj": "Georgian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Armenia",
-			"adj": "",
+			"adj": "Armenian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Azerbaijan",
 			"adj": "Azerbaijani",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Iberia",
-			"adj": "",
+			"adj": "Iberian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Aragon",
-			"adj": "",
+			"adj": "Aragonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Castile",
-			"adj": "",
+			"adj": "Castilian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Granada",
-			"adj": "",
+			"adj": "Granadian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Galicia",
-			"adj": "",
+			"adj": "Galician",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Catalonia",
-			"adj": "",
+			"adj": "Catalonian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Chechnya",
-			"adj": "",
+			"adj": "Chechen",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Crimea",
-			"adj": "",
+			"adj": "Crimean",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Siberia",
-			"adj": "",
+			"adj": "Siberian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Mongolia",
 			"adj": "Mongolian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Ural",
-			"adj": "",
+			"adj": "Ural",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Herzeg",
-			"adj": "",
+			"adj": "Herzeg",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Bosnia",
-			"adj": "",
+			"adj": "Bosnian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Bosnia and Herzegovina",
-			"adj": "",
+			"adj": "Bosnia and Herzegovinan",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Herzegovina",
-			"adj": "",
+			"adj": "Herzegovinian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Inuit",
-			"adj": "",
+			"adj": "Inuit",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Arctic",
-			"adj": "",
+			"adj": "Arctic",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Antarctic",
-			"adj": "",
+			"adj": "Antarctic",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "North America",
-			"adj": "",
+			"noun": "Northern America",
+			"adj": "Northern American",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
-			"noun": "South America",
-			"adj": "",
+			"noun": "Southern America",
+			"adj": "Southern American",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Central America",
-			"adj": "",
+			"adj": "Central American",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Transamerica",
-			"adj": "",
+			"adj": "Transamerican",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Panamerica",
-			"adj": "",
+			"adj": "Panamerican",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Mexico",
 			"adj": "Mexican",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Aztec",
-			"adj": "",
+			"adj": "Aztec",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Maya",
-			"adj": "",
+			"adj": "Mayan",
 			"pos": {
-				"x": 0,
-				"y": 0
-			}
-		},
-		{
-			"noun": "Rio Grande",
-			"adj": "",
-			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Oceania",
-			"adj": "",
+			"adj": "Oceanian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Colombia",
 			"adj": "Colombian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Inca",
-			"adj": "",
+			"adj": "Inca",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Peru",
 			"adj": "Peruvian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Brazil",
 			"adj": "Brazilian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		},
 		{
 			"noun": "Bolivia",
 			"adj": "Bolivian",
 			"pos": {
-				"x": 0,
-				"y": 0
+				"top-left": [0, 0],
+				"bottom-right": [0, 0]
 			}
 		}
 	],
 	"prefix": [
 		{
-			"name": "socialistic",
+			"name": "Socialistic",
 			"coat": "coats/socialistic.png",
 			"flag": "flags/socialistic.png"
 		},
 		{
-			"name": "orthodox",
+			"name": "Orthodox",
 			"coat": "coats/orthodox.png",
 			"flag": "flags/orthodox.png"
 		},
@@ -1390,12 +1374,12 @@
 			"flag": "flags/islamic.png"
 		},
 		{
-			"name": "federal",
+			"name": "Federal",
 			"coat": "coats/federal.png",
 			"flag": "flags/federal.png"
 		},
 		{
-			"name": "soviet",
+			"name": "Soviet",
 			"coat": "coats/soviet.png",
 			"flag": "flags/soviet.png"
 		},
@@ -1405,12 +1389,12 @@
 			"flag": "flags/socialist_soviet.png"
 		},
 		{
-			"name": "People's",
+			"name": "People’s",
 			"coat": "coats/peoples.png",
 			"flag": "flags/peoples.png"
 		},
 		{
-			"name": "People's Democratic",
+			"name": "People’s Democratic",
 			"coat": "coats/peoples_democratic.png",
 			"flag": "flags/peoples_democratic.png"
 		},
@@ -1420,14 +1404,14 @@
 			"flag": "flags/christian.png"
 		},
 		{
-			"name": "United",
-			"coat": "coats/united.png",
-			"flag": "flags/united.png"
-		},
-		{
 			"name": "Digital",
 			"coat": "coats/digital.png",
 			"flag": "flags/digital.png"
+		},
+		{
+			"name": "Corporate",
+			"coat": "coats/corporate.png",
+			"flag": "flags/corporate.png"
 		}
 	],
 	"type": [
