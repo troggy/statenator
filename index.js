@@ -35,7 +35,7 @@ var Country = function(epithet, type, prefix, territory) {
   if (territory.adj == "" || Math.random() >= 0.5) {
     name = [epithet, prefix.name, type, "of", territory.noun]
   } else {
-    name = [epithet, territory.adj, prefix.name, type]
+    name = [epithet, prefix.name, territory.adj, type]
   }
 
   return {
