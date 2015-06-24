@@ -5,6 +5,11 @@ var data = require('../data.json'),
 
 	Country = require('./country');
 
+
+if (!fs.existsSync(config.tmpDir)){
+	fs.mkdirSync(config.tmpDir);
+}
+
 var regionFiles = fs.readdirSync(config.regionsDir).map(function(reg) { return 'images/regions/' + reg; })
 
 module.exports.randomCountry = function() {
