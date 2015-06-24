@@ -1,12 +1,11 @@
 var data = require('../data.json'),
 	config = require('../config.json'),
 	fs = require('fs'),
+	path = require('path'),
 	utils = require('./utils'),
 	Country = require('./country');
 
-utils.touchTmpDir();
-
-var regionFiles = fs.readdirSync(config.regionsDir).map(function(reg) { return 'images/regions/' + reg; });
+var regionFiles = fs.readdirSync(config.regionsDir).map(function(reg) { return path.join(config.regionsDir, reg); });
 
 module.exports.randomCountry = function() {
 	var type = utils.rnd(data.type);

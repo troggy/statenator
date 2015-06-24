@@ -15,7 +15,6 @@ http.createServer(function (req, res) {
   var country = statenator.randomCountry();
   country.worldmap().then(function(mapBuff) {
 	  var mapBase64 = mapBuff.toString('base64');
-	  utils.cleanTmpDir();
 	  console.log("Country: " + country.name);
 	  ejs.renderFile('index.ejs', {
 		  name: country.name,

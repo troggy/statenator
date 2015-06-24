@@ -1,8 +1,12 @@
 var gm = require('gm'),
 	fs = require('fs'),
 	Q = require('q'),
+	path = require('path'),
 	concat = require('concat-stream'),
+	utils = require('./utils'),
 	config = require('../config.json');
+
+var workDir = '';
 
 var handleError = function(err) {
 	if (err) {
@@ -34,7 +38,7 @@ var compositeAtPos = function(source, overlayPath, x, y, mask, callback) {
 };
 
 var streamToFile = function(stream, callback) {
-	var tmp_file = config.tmpDir + 'tmp' + (Math.random() * 100) + '.png';
+	var tmp_file = path.join(config.tmpDir, workDir, 'tmp' + (Math.random() * 100) + '.png');
 	var tmpStream = fs.createWriteStream(tmp_file);
 	stream
 		.pipe(tmpStream)
@@ -88,6 +92,9 @@ module.exports.plotRegion = function(mapFile, regionFile, pos) {
 		return result.promise;
 	}
 
+	workDir = "map" + (Math.random() * 100);
+	utils.touchDir(config.tmpDir);
+	utils.touchDir(path.join(config.tmpDir, workDir));
 	console.log("Rendering [" + width + ", " + height + "] region at [" + x + ", " + y + "]");
 
 	resizeRegion(regionFile, width, height, function(regionStream) {
@@ -96,6 +103,7 @@ module.exports.plotRegion = function(mapFile, regionFile, pos) {
 				compositeStreamAtPos(mapFile, maskedRegionStream, x, y, null, function(stream) {
 					stream.pipe(concat(function(buff) {
 						result.resolve(buff);
+						utils.removeTmpDir(workDir);
 					}));
 				});
 			});

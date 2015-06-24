@@ -1,4 +1,5 @@
 var fs = require('fs'),
+	path = require('path'),
 	config = require('../config.json');
 
 module.exports.capitalize = function(string) {
@@ -14,16 +15,18 @@ module.exports.rnd = function(arr) {
 	return arr[index];
 };
 
-module.exports.cleanTmpDir = function() {
-	var files = fs.readdirSync(config.tmpDir);
+module.exports.removeTmpDir = function(dir) {
+	var tmpDir = path.join(config.tmpDir, dir),
+		files = fs.readdirSync(tmpDir);
 	files.forEach(function(file) {
 		if (file == '.' || file == '..') return;
-		fs.unlinkSync(config.tmpDir + file);
+		fs.unlinkSync(path.join(tmpDir, file));
 	});
+	fs.rmdir(tmpDir);
 };
 
-module.exports.touchTmpDir = function() {
-	if (!fs.existsSync(config.tmpDir)){
-		fs.mkdirSync(config.tmpDir);
+module.exports.touchDir = function(dirName) {
+	if (!fs.existsSync(dirName)){
+		fs.mkdirSync(dirName);
 	}
 };
