@@ -1,0 +1,5 @@
+{
+	"regionsDir": "./images/regions/",
+	"mapFile": "./images/blank_map_alpha.png",
+	"tmpDir": "./tmp/"
+}

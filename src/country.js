@@ -1,6 +1,8 @@
-var utils = require('./utils');
+var utils = require('./utils'),
+	map = require('./map'),
+	config = require('../config.json');
 
-var Country = function(epithet, type, prefix, territory) {
+var Country = function(epithet, type, prefix, territory, regionFile) {
 	var name;
 
 	if (territory.adj == "" || Math.random() >= 0.5) {
@@ -10,7 +12,13 @@ var Country = function(epithet, type, prefix, territory) {
 	}
 
 	return {
-		name: name.map(utils.capitalize).map(utils.lowerCaseIfPreposition).join(" ")
+
+		name: name.map(utils.capitalize).map(utils.lowerCaseIfPreposition).join(" "),
+
+		worldmap : function() {
+			return map.plotRegion(config.mapFile, regionFile, territory.pos);
+		}
+
 	};
 };
 
