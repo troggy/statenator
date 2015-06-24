@@ -1,21 +1,20 @@
 {
-  "name": "fakecountry",
+  "name": "statenator",
   "version": "0.1.0",
   "description": "Fake country generator",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.com:kk-freelance/fakecountry.git"
+    "url": "git@github.com:troggy/statenator.git"
   },
   "author": "Kosta Korenkov <7r0ggy@gmail.com>",
   "license": "BSD-2-Clause",
   "dependencies": {
     "gm": "~1.18.1",
-    "express": "~4.12.4",
     "concat-stream": "~1.5.0",
     "q": "~1.4.1",
     "ejs": "~2.3.1"

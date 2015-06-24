@@ -14,10 +14,16 @@ module.exports.rnd = function(arr) {
 	return arr[index];
 };
 
-module.exports.cleanTmpFiles = function() {
+module.exports.cleanTmpDir = function() {
 	var files = fs.readdirSync(config.tmpDir);
 	files.forEach(function(file) {
 		if (file == '.' || file == '..') return;
 		fs.unlinkSync(config.tmpDir + file);
 	});
+};
+
+module.exports.touchTmpDir = function() {
+	if (!fs.existsSync(config.tmpDir)){
+		fs.mkdirSync(config.tmpDir);
+	}
 };
